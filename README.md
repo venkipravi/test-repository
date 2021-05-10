@@ -1,3 +1,2 @@
-# test-repository
-
-this is a newe edit from local compitert
+# my first repo
+iam a good teacher
